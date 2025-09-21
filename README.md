@@ -70,9 +70,20 @@ fls.exe -r -o 2048 C:\forensics\disk.dd
 icat.exe -o 2048 C:\forensics\disk.dd 6 > C:\forensics\image.jpg
 ```
 ## OUTPUT:
-<img width="1920" height="937" alt="VirtualBox_kalilinux_15_08_2025_13_40_46" src="https://github.com/user-attachments/assets/5d980ca0-e692-4ee8-b378-e7bd4cc58bc6" />
+<img width="478" height="168" alt="image" src="https://github.com/user-attachments/assets/2622558a-68e0-4e80-8b75-63b2d84a3cc3" />
 
-<img width="1920" height="937" alt="VirtualBox_kalilinux_15_08_2025_13_41_15" src="https://github.com/user-attachments/assets/e493bbfa-b872-462f-805d-3355395205d6" />
+<img width="831" height="150" alt="image" src="https://github.com/user-attachments/assets/0dc2b851-0d6e-4d33-a7b1-4b9b0b6a9f71" />
+
+<img width="541" height="242" alt="image" src="https://github.com/user-attachments/assets/ff60d10a-131d-4767-b984-bb29077f86ee" />
+
+<img width="532" height="61" alt="image" src="https://github.com/user-attachments/assets/e3876400-2fe8-4e88-94ca-b2c4b8902084" />
+
+<img width="825" height="204" alt="image" src="https://github.com/user-attachments/assets/fd09f4d1-fd3b-4c8b-8448-74b49e98a790" />
+
+<img width="533" height="112" alt="image" src="https://github.com/user-attachments/assets/84c41069-c0db-4a68-bfed-15af413b30b2" />
+
+<img width="578" height="239" alt="image" src="https://github.com/user-attachments/assets/2f67060d-c34e-4681-ba4b-d75c3cd23571" />
+
 
 ## RESULT:
 The analysis was performed successfully using Sleuth Kit, and the disk structure was understood in detail.
